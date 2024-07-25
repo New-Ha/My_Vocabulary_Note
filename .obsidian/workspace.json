@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0ed5ca60809bf7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/시퀀스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05f1230cd1618c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/콜백(callback).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ae9fa860ca7859b5",
             "type": "leaf",
             "state": {
@@ -43,9 +19,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf1b3837faa2f8f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로미스(Promise) 객체.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,11 +161,12 @@
   },
   "active": "ae9fa860ca7859b5",
   "lastOpenFiles": [
+    "프로미스(Promise) 객체.md",
+    "JavaScript/콜백(callback).md",
     "Database/리스폰스(response).md",
     "Database/서버(server).md",
     "Database/리퀘스트(request).md",
     "JavaScript/비동기 함수.md",
-    "JavaScript/콜백(callback).md",
     "React/서스펜스(Suspense).md",
     "JavaScript/파라미터(parameter).md",
     "JavaScript/아규먼트(argument).md",
