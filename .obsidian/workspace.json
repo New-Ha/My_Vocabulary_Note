@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/비동기 함수.md",
+                "file": "JavaScript/콜백(callback).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/비동기 함수.md",
+                "file": "JavaScript/콜백(callback).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/비동기 함수.md",
+                "file": "JavaScript/콜백(callback).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/비동기 함수.md"
+                "file": "JavaScript/콜백(callback).md"
               }
             }
           }
@@ -174,8 +174,11 @@
   },
   "active": "ae9fa860ca7859b5",
   "lastOpenFiles": [
-    "JavaScript/콜백(callback).md",
+    "Database/리스폰스(response).md",
+    "Database/서버(server).md",
+    "Database/리퀘스트(request).md",
     "JavaScript/비동기 함수.md",
+    "JavaScript/콜백(callback).md",
     "React/서스펜스(Suspense).md",
     "JavaScript/파라미터(parameter).md",
     "JavaScript/아규먼트(argument).md",
