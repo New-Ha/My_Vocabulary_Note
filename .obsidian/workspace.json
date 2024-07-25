@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "02a48e288e170ac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "828b3aeb25f7d74f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93edb49fee4c286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/오버로드(overload).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0ed5ca60809bf7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/시퀀스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71843ed7c54e85d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/서스펜스(Suspense).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2fbf73f11fc3e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/스키마(Schema).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a5a6c768d501272",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcfbf9b53e1e5402",
+    "type": "split",
+    "children": [
+      {
+        "id": "496a01c9c82085db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "944914317755fed3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fa7c4006f05c98c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07b5dd516645a2be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "083decb710687f9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fb2fa2c908c3d16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "391905c2ff61ea5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TypeScript/오버로드(overload).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d99253361757833",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TypeScript/오버로드(overload).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d43336216acf6b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a3ca02b6e56717b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TypeScript/오버로드(overload).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "3a5a6c768d501272",
+  "lastOpenFiles": [
+    "React/시퀀스.md",
+    "React/서스펜스(Suspense).md",
+    "TypeScript/오버로드(overload).md",
+    "Database/스키마(Schema).md",
+    "Database",
+    "TypeScript",
+    "React",
+    "JavaScript",
+    "Welcome.md"
+  ]
+}
