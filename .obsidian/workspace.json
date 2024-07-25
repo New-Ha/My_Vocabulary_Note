@@ -30,9 +30,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae9fa860ca7859b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/서스펜스(Suspense).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/콜백(callback).md",
+                "file": "React/서스펜스(Suspense).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/콜백(callback).md",
+                "file": "React/서스펜스(Suspense).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/콜백(callback).md"
+                "file": "React/서스펜스(Suspense).md"
               }
             }
           }
@@ -159,10 +172,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "05f1230cd1618c53",
+  "active": "ae9fa860ca7859b5",
   "lastOpenFiles": [
-    "React/시퀀스.md",
+    "JavaScript/파라미터(parameter).md",
     "JavaScript/콜백(callback).md",
+    "JavaScript/아규먼트(argument).md",
+    "아규먼트.md",
+    "React/시퀀스.md",
     "React/서스펜스(Suspense).md",
     "Database/스키마(Schema).md",
     "TypeScript/오버로드(overload).md",
