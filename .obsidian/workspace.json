@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d93edb49fee4c286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/오버로드(overload).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f0ed5ca60809bf7f",
             "type": "leaf",
             "state": {
@@ -32,41 +20,19 @@
             }
           },
           {
-            "id": "71843ed7c54e85d5",
+            "id": "05f1230cd1618c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/서스펜스(Suspense).md",
+                "file": "JavaScript/콜백(callback).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "a2fbf73f11fc3e93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/스키마(Schema).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a5a6c768d501272",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "083decb710687f9f",
@@ -132,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/오버로드(overload).md",
+                "file": "JavaScript/콜백(callback).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/오버로드(overload).md",
+                "file": "JavaScript/콜백(callback).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/오버로드(overload).md"
+                "file": "JavaScript/콜백(callback).md"
               }
             }
           }
@@ -193,12 +159,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3a5a6c768d501272",
+  "active": "05f1230cd1618c53",
   "lastOpenFiles": [
     "React/시퀀스.md",
+    "JavaScript/콜백(callback).md",
     "React/서스펜스(Suspense).md",
-    "TypeScript/오버로드(overload).md",
     "Database/스키마(Schema).md",
+    "TypeScript/오버로드(overload).md",
     "Database",
     "TypeScript",
     "React",
