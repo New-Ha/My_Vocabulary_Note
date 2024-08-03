@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/아규먼트(argument).md",
+                "file": "JavaScript/콜백(callback).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/아규먼트(argument).md",
+                "file": "JavaScript/콜백(callback).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/아규먼트(argument).md",
+                "file": "JavaScript/콜백(callback).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/아규먼트(argument).md"
+                "file": "JavaScript/콜백(callback).md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "4de12de275ed5f8e",
   "lastOpenFiles": [
+    "JavaScript/아규먼트(argument).md",
     "JavaScript/비동기 함수.md",
     "Error/포커스 트랩(Focus Trap).md",
     "Error/포커스 드리프트(Focus Drift).md",
@@ -189,7 +190,6 @@
     "JavaScript/프로미스(Promise) 객체.md",
     "React/서스펜스(Suspense).md",
     "JavaScript/파라미터(parameter).md",
-    "JavaScript/아규먼트(argument).md",
     "아규먼트.md",
     "React/시퀀스.md",
     "TypeScript/오버로드(overload).md",
