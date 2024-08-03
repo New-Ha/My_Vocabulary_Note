@@ -8,55 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae9fa860ca7859b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/콜백(callback).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "181c2aaa73847354",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Error/포커스 관리(Focus management).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54746511dbd5444b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Error/포커스 관리(Focus management).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2920b8ded667829a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Error/포커스 관리(Focus management).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4b7a3b3629159eb4",
             "type": "leaf",
             "state": {
@@ -67,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cf1b3837faa2f8f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로미스(Promise) 객체.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
