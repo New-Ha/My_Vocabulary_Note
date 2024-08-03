@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/포커스 트랩(Focus Trap).md",
+                "file": "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98a0a325e491a98e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error/포커스 드리프트(Focus Drift).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/포커스 트랩(Focus Trap).md",
+                "file": "Error/포커스 드리프트(Focus Drift).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/포커스 트랩(Focus Trap).md",
+                "file": "Error/포커스 드리프트(Focus Drift).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error/포커스 트랩(Focus Trap).md"
+                "file": "Error/포커스 드리프트(Focus Drift).md"
               }
             }
           }
@@ -146,15 +159,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4b7a3b3629159eb4",
+  "active": "98a0a325e491a98e",
   "lastOpenFiles": [
+    "Error/포커스 트랩(Focus Trap).md",
+    "WCAG(Web Content Accessibility Guidelines).md",
+    "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
     "Error/포커스 드리프트(Focus Drift).md",
     "Error/포커스 관리(Focus management).md",
-    "Error/포커스 트랩(Focus Trap).md",
-    "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
     "JavaScript/콜백(callback).md",
     "Error",
-    "프로미스(Promise) 객체.md",
+    "JavaScript/프로미스(Promise) 객체.md",
     "Database/리스폰스(response).md",
     "Database/서버(server).md",
     "Database/리퀘스트(request).md",
