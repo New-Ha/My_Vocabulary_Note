@@ -21,6 +21,54 @@
             }
           },
           {
+            "id": "181c2aaa73847354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error/포커스 관리(Focus management).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54746511dbd5444b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error/포커스 관리(Focus management).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2920b8ded667829a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error/포커스 관리(Focus management).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b7a3b3629159eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error/포커스 트랩(Focus Trap).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cf1b3837faa2f8f9",
             "type": "leaf",
             "state": {
@@ -32,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/콜백(callback).md",
+                "file": "Error/포커스 트랩(Focus Trap).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/콜백(callback).md",
+                "file": "Error/포커스 트랩(Focus Trap).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/콜백(callback).md"
+                "file": "Error/포커스 트랩(Focus Trap).md"
               }
             }
           }
@@ -159,10 +208,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ae9fa860ca7859b5",
+  "active": "4b7a3b3629159eb4",
   "lastOpenFiles": [
-    "프로미스(Promise) 객체.md",
+    "Error/포커스 드리프트(Focus Drift).md",
+    "Error/포커스 관리(Focus management).md",
+    "Error/포커스 트랩(Focus Trap).md",
+    "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
     "JavaScript/콜백(callback).md",
+    "Error",
+    "프로미스(Promise) 객체.md",
     "Database/리스폰스(response).md",
     "Database/서버(server).md",
     "Database/리퀘스트(request).md",
