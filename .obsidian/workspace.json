@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "828b3aeb25f7d74f",
+        "id": "53688d2edd2a9d2c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b7a3b3629159eb4",
+            "id": "b1fc16dbf21cfebc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98a0a325e491a98e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Error/포커스 트랩(Focus Trap).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4de12de275ed5f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/콜백(callback).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/콜백(callback).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/콜백(callback).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaScript/콜백(callback).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,8 +138,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4de12de275ed5f8e",
+  "active": "b1fc16dbf21cfebc",
   "lastOpenFiles": [
+    "React/제어 컴포넌트(Controlled Component).md",
+    "React/서스펜스(Suspense).md",
+    "JavaScript/프로미스(Promise) 객체.md",
+    "JavaScript/파라미터(parameter).md",
+    "JavaScript/콜백(callback).md",
     "JavaScript/아규먼트(argument).md",
     "JavaScript/비동기 함수.md",
     "Error/포커스 트랩(Focus Trap).md",
@@ -182,14 +154,9 @@
     "Database/서버(server).md",
     "Database/리퀘스트(request).md",
     "Database/리스폰스(response).md",
-    "React/제어 컴포넌트(Controlled Component).md",
     "WCAG(Web Content Accessibility Guidelines).md",
     "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
-    "JavaScript/콜백(callback).md",
     "Error",
-    "JavaScript/프로미스(Promise) 객체.md",
-    "React/서스펜스(Suspense).md",
-    "JavaScript/파라미터(parameter).md",
     "아규먼트.md",
     "React/시퀀스.md",
     "TypeScript/오버로드(overload).md",
