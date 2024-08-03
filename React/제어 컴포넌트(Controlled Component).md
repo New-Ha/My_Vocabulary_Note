@@ -4,7 +4,7 @@
 
 ---
 
-예를 들면, `<input>`과 같은 form filed component가 대표적인 제어 컴포넌트인데 외부에서 전달된 값(value), 이벤트 핸들러(onChange, onBlur 등)로 상태를 외부에서 관리하고 조정한다.
+예를 들면, `<input>`과 같은 form field component가 대표적인 제어 컴포넌트인데 외부에서 전달된 값(value), 이벤트 핸들러(onChange, onBlur 등)로 상태를 외부에서 관리하고 조정한다.
 - value 속성을 통해 외부에서 입력된 값을 전달 받는다.
 - onChange event handler를 통해 입력 값이 변경될 때 부모 컴포넌트로 변경사항을 전달한다.
 ```js

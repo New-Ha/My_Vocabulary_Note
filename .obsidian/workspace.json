@@ -11,8 +11,12 @@
             "id": "b1fc16dbf21cfebc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React/제어 컴포넌트(Controlled Component).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/제어 컴포넌트(Controlled Component).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/제어 컴포넌트(Controlled Component).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/제어 컴포넌트(Controlled Component).md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "b1fc16dbf21cfebc",
   "lastOpenFiles": [
+    "Error/포커스 트랩(Focus Trap).md",
+    "Error/포커스 관리(Focus management).md",
+    "Error/포커스 드리프트(Focus Drift).md",
     "React/제어 컴포넌트(Controlled Component).md",
     "React/서스펜스(Suspense).md",
     "JavaScript/프로미스(Promise) 객체.md",
@@ -147,9 +158,6 @@
     "JavaScript/콜백(callback).md",
     "JavaScript/아규먼트(argument).md",
     "JavaScript/비동기 함수.md",
-    "Error/포커스 트랩(Focus Trap).md",
-    "Error/포커스 드리프트(Focus Drift).md",
-    "Error/포커스 관리(Focus management).md",
     "Database/스키마(Schema).md",
     "Database/서버(server).md",
     "Database/리퀘스트(request).md",
