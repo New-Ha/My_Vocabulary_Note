@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/포커스 드리프트(Focus Drift).md",
+                "file": "Error/포커스 트랩(Focus Trap).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4de12de275ed5f8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/아규먼트(argument).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/포커스 드리프트(Focus Drift).md",
+                "file": "JavaScript/아규먼트(argument).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/포커스 드리프트(Focus Drift).md",
+                "file": "JavaScript/아규먼트(argument).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error/포커스 드리프트(Focus Drift).md"
+                "file": "JavaScript/아규먼트(argument).md"
               }
             }
           }
@@ -159,26 +171,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "98a0a325e491a98e",
+  "active": "4de12de275ed5f8e",
   "lastOpenFiles": [
+    "JavaScript/비동기 함수.md",
     "Error/포커스 트랩(Focus Trap).md",
-    "WCAG(Web Content Accessibility Guidelines).md",
-    "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
     "Error/포커스 드리프트(Focus Drift).md",
     "Error/포커스 관리(Focus management).md",
+    "Database/스키마(Schema).md",
+    "Database/서버(server).md",
+    "Database/리퀘스트(request).md",
+    "Database/리스폰스(response).md",
+    "React/제어 컴포넌트(Controlled Component).md",
+    "WCAG(Web Content Accessibility Guidelines).md",
+    "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
     "JavaScript/콜백(callback).md",
     "Error",
     "JavaScript/프로미스(Promise) 객체.md",
-    "Database/리스폰스(response).md",
-    "Database/서버(server).md",
-    "Database/리퀘스트(request).md",
-    "JavaScript/비동기 함수.md",
     "React/서스펜스(Suspense).md",
     "JavaScript/파라미터(parameter).md",
     "JavaScript/아규먼트(argument).md",
     "아규먼트.md",
     "React/시퀀스.md",
-    "Database/스키마(Schema).md",
     "TypeScript/오버로드(overload).md",
     "Database",
     "TypeScript",
