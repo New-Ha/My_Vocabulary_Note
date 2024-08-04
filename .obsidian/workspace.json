@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53688d2edd2a9d2c",
+        "id": "57011f1317aac4aa",
         "type": "tabs",
         "children": [
           {
-            "id": "b1fc16dbf21cfebc",
+            "id": "ffbbdb7d118081ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/제어 컴포넌트(Controlled Component).md",
+                "file": "Error/레이아웃 쉬프트(Layout Shift).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/제어 컴포넌트(Controlled Component).md",
+                "file": "Error/레이아웃 쉬프트(Layout Shift).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/제어 컴포넌트(Controlled Component).md",
+                "file": "Error/레이아웃 쉬프트(Layout Shift).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/제어 컴포넌트(Controlled Component).md"
+                "file": "Error/레이아웃 쉬프트(Layout Shift).md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b1fc16dbf21cfebc",
+  "active": "ffbbdb7d118081ed",
   "lastOpenFiles": [
-    "Error/포커스 트랩(Focus Trap).md",
+    "CS/CLS(Cumulative Layout Shift).md",
+    "Error/레이아웃 쉬프트(Layout Shift).md",
     "Error/포커스 관리(Focus management).md",
+    "CS/WCAG(Web Content Accessibility Guidelines).md",
+    "CS",
+    "Error/포커스 트랩(Focus Trap).md",
     "Error/포커스 드리프트(Focus Drift).md",
     "React/제어 컴포넌트(Controlled Component).md",
     "React/서스펜스(Suspense).md",
@@ -162,7 +166,6 @@
     "Database/서버(server).md",
     "Database/리퀘스트(request).md",
     "Database/리스폰스(response).md",
-    "WCAG(Web Content Accessibility Guidelines).md",
     "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
     "Error",
     "아규먼트.md",
