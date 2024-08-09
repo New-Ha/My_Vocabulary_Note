@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/레이아웃 쉬프트(Layout Shift).md",
+                "file": "TypeScript/오버로드(overload).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/레이아웃 쉬프트(Layout Shift).md",
+                "file": "TypeScript/오버로드(overload).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/레이아웃 쉬프트(Layout Shift).md",
+                "file": "TypeScript/오버로드(overload).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error/레이아웃 쉬프트(Layout Shift).md"
+                "file": "TypeScript/오버로드(overload).md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "ffbbdb7d118081ed",
   "lastOpenFiles": [
-    "Error/포커스 관리(Focus management).md",
-    "Error/레이아웃 쉬프트(Layout Shift).md",
-    "CS/CLS(Cumulative Layout Shift).md",
     "CS/WCAG(Web Content Accessibility Guidelines).md",
+    "CS/CLS(Cumulative Layout Shift).md",
+    "Error/레이아웃 쉬프트(Layout Shift).md",
+    "Error/포커스 관리(Focus management).md",
     "CS",
     "Error/포커스 트랩(Focus Trap).md",
     "Error/포커스 드리프트(Focus Drift).md",
