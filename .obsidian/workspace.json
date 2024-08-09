@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffbbdb7d118081ed",
+            "id": "e70fb7f6f3e3ee90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/오버로드(overload).md",
+                "file": "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/오버로드(overload).md",
+                "file": "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/오버로드(overload).md",
+                "file": "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/오버로드(overload).md"
+                "file": "CommonSense/WCAG(Web Content Accessibility Guidelines).md"
               }
             }
           }
@@ -146,31 +146,33 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ffbbdb7d118081ed",
+  "active": "e70fb7f6f3e3ee90",
   "lastOpenFiles": [
-    "CS/WCAG(Web Content Accessibility Guidelines).md",
-    "CS/CLS(Cumulative Layout Shift).md",
+    "CommonSense/CLS(Cumulative Layout Shift).md",
+    "CS(ComputerScience)/자료구조(Data Structure).md",
     "Error/레이아웃 쉬프트(Layout Shift).md",
-    "Error/포커스 관리(Focus management).md",
-    "CS",
-    "Error/포커스 트랩(Focus Trap).md",
+    "Database/스키마(Schema).md",
+    "Database/리스폰스(response).md",
+    "Database/리퀘스트(request).md",
     "Error/포커스 드리프트(Focus Drift).md",
+    "Error/포커스 관리(Focus management).md",
+    "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
+    "JavaScript/아규먼트(argument).md",
+    "JavaScript/콜백(callback).md",
+    "TypeScript/오버로드(overload).md",
+    "CommonSense",
+    "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
+    "CS(ComputerScience)",
+    "Error/포커스 트랩(Focus Trap).md",
     "React/제어 컴포넌트(Controlled Component).md",
     "React/서스펜스(Suspense).md",
     "JavaScript/프로미스(Promise) 객체.md",
     "JavaScript/파라미터(parameter).md",
-    "JavaScript/콜백(callback).md",
-    "JavaScript/아규먼트(argument).md",
     "JavaScript/비동기 함수.md",
-    "Database/스키마(Schema).md",
     "Database/서버(server).md",
-    "Database/리퀘스트(request).md",
-    "Database/리스폰스(response).md",
-    "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
     "Error",
     "아규먼트.md",
     "React/시퀀스.md",
-    "TypeScript/오버로드(overload).md",
     "Database",
     "TypeScript",
     "React",
