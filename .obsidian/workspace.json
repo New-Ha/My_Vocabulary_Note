@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "57011f1317aac4aa",
+        "id": "266dd0209a299ae3",
         "type": "tabs",
         "children": [
           {
-            "id": "e70fb7f6f3e3ee90",
+            "id": "c22260ef71f5d1c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CommonSense/WCAG(Web Content Accessibility Guidelines).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e70fb7f6f3e3ee90",
+  "active": "c22260ef71f5d1c8",
   "lastOpenFiles": [
+    "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
     "CommonSense/CLS(Cumulative Layout Shift).md",
     "CS(ComputerScience)/자료구조(Data Structure).md",
     "Error/레이아웃 쉬프트(Layout Shift).md",
@@ -161,7 +154,6 @@
     "JavaScript/콜백(callback).md",
     "TypeScript/오버로드(overload).md",
     "CommonSense",
-    "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
     "CS(ComputerScience)",
     "Error/포커스 트랩(Focus Trap).md",
     "React/제어 컴포넌트(Controlled Component).md",
