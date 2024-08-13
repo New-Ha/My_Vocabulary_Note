@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c22260ef71f5d1c8",
+            "id": "d4bdb07a4a59e2e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/포커스 드리프트(Focus Drift).md",
+                "file": "CommonSense/팩토리 메소드 패턴(Factory Method Pattern).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/포커스 드리프트(Focus Drift).md",
+                "file": "CommonSense/팩토리 메소드 패턴(Factory Method Pattern).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/포커스 드리프트(Focus Drift).md",
+                "file": "CommonSense/팩토리 메소드 패턴(Factory Method Pattern).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error/포커스 드리프트(Focus Drift).md"
+                "file": "CommonSense/팩토리 메소드 패턴(Factory Method Pattern).md"
               }
             }
           }
@@ -146,12 +146,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c22260ef71f5d1c8",
+  "active": "d4bdb07a4a59e2e2",
   "lastOpenFiles": [
-    "Error/포커스 트랩(Focus Trap).md",
-    "Error/포커스 드리프트(Focus Drift).md",
-    "Error/포커스 관리(Focus management).md",
+    "CommonSense/추상 팩토리 패턴(Abstract Factory Pattern).md",
+    "CommonSense/단순 팩토리 패턴(Simple Factory Pattern).md",
+    "CommonSense/팩토리 메소드 패턴(Factory Method Pattern).md",
+    "CommonSense/팩토리 패턴(Factory Pattern).md",
+    "React/서스펜스(Suspense).md",
+    "React/시퀀스.md",
+    "React/제어 컴포넌트(Controlled Component).md",
     "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
+    "Error/포커스 드리프트(Focus Drift).md",
+    "Error/포커스 트랩(Focus Trap).md",
+    "Error/포커스 관리(Focus management).md",
     "CommonSense/CLS(Cumulative Layout Shift).md",
     "CS(ComputerScience)/자료구조(Data Structure).md",
     "Error/레이아웃 쉬프트(Layout Shift).md",
@@ -164,19 +171,15 @@
     "TypeScript/오버로드(overload).md",
     "CommonSense",
     "CS(ComputerScience)",
-    "React/제어 컴포넌트(Controlled Component).md",
-    "React/서스펜스(Suspense).md",
     "JavaScript/프로미스(Promise) 객체.md",
     "JavaScript/파라미터(parameter).md",
     "JavaScript/비동기 함수.md",
     "Database/서버(server).md",
     "Error",
     "아규먼트.md",
-    "React/시퀀스.md",
     "Database",
     "TypeScript",
     "React",
-    "JavaScript",
-    "Welcome.md"
+    "JavaScript"
   ]
 }
