@@ -11,8 +11,12 @@
             "id": "c22260ef71f5d1c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Error/포커스 드리프트(Focus Drift).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Error/포커스 드리프트(Focus Drift).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Error/포커스 드리프트(Focus Drift).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Error/포커스 드리프트(Focus Drift).md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "c22260ef71f5d1c8",
   "lastOpenFiles": [
+    "Error/포커스 트랩(Focus Trap).md",
+    "Error/포커스 드리프트(Focus Drift).md",
+    "Error/포커스 관리(Focus management).md",
     "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
     "CommonSense/CLS(Cumulative Layout Shift).md",
     "CS(ComputerScience)/자료구조(Data Structure).md",
@@ -147,15 +158,12 @@
     "Database/스키마(Schema).md",
     "Database/리스폰스(response).md",
     "Database/리퀘스트(request).md",
-    "Error/포커스 드리프트(Focus Drift).md",
-    "Error/포커스 관리(Focus management).md",
     "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
     "JavaScript/아규먼트(argument).md",
     "JavaScript/콜백(callback).md",
     "TypeScript/오버로드(overload).md",
     "CommonSense",
     "CS(ComputerScience)",
-    "Error/포커스 트랩(Focus Trap).md",
     "React/제어 컴포넌트(Controlled Component).md",
     "React/서스펜스(Suspense).md",
     "JavaScript/프로미스(Promise) 객체.md",
