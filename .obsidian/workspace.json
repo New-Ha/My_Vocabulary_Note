@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CommonSense/팩토리 메소드 패턴(Factory Method Pattern).md",
+                "file": "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0fd95d686776e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "디자인 패턴(Design Pattern).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CommonSense/팩토리 메소드 패턴(Factory Method Pattern).md",
+                "file": "디자인 패턴(Design Pattern).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CommonSense/팩토리 메소드 패턴(Factory Method Pattern).md",
+                "file": "디자인 패턴(Design Pattern).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CommonSense/팩토리 메소드 패턴(Factory Method Pattern).md"
+                "file": "디자인 패턴(Design Pattern).md"
               }
             }
           }
@@ -146,12 +159,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d4bdb07a4a59e2e2",
+  "active": "a0fd95d686776e96",
   "lastOpenFiles": [
-    "CommonSense/추상 팩토리 패턴(Abstract Factory Pattern).md",
-    "CommonSense/단순 팩토리 패턴(Simple Factory Pattern).md",
-    "CommonSense/팩토리 메소드 패턴(Factory Method Pattern).md",
-    "CommonSense/팩토리 패턴(Factory Pattern).md",
+    "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
+    "디자인 패턴(Design Pattern).md",
+    "Design Pattern/팩토리 메소드 패턴(Factory Method Pattern).md",
+    "Design Pattern",
+    "Design Pattern/추상 팩토리 패턴(Abstract Factory Pattern).md",
+    "Design Pattern/팩토리 패턴(Factory Pattern).md",
     "React/서스펜스(Suspense).md",
     "React/시퀀스.md",
     "React/제어 컴포넌트(Controlled Component).md",
@@ -176,7 +191,6 @@
     "JavaScript/비동기 함수.md",
     "Database/서버(server).md",
     "Error",
-    "아규먼트.md",
     "Database",
     "TypeScript",
     "React",
