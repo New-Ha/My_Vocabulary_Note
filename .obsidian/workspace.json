@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디자인 패턴(Design Pattern).md",
+                "file": "Design Pattern/디자인 패턴(Design Pattern).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "681f740bff788156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MVC 패턴.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "디자인 패턴(Design Pattern).md",
+                "file": "MVC 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "디자인 패턴(Design Pattern).md",
+                "file": "MVC 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디자인 패턴(Design Pattern).md"
+                "file": "MVC 패턴.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a0fd95d686776e96",
+  "active": "681f740bff788156",
   "lastOpenFiles": [
+    "Design Pattern/디자인 패턴(Design Pattern).md",
+    "MVC 패턴.md",
     "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
-    "디자인 패턴(Design Pattern).md",
     "Design Pattern/팩토리 메소드 패턴(Factory Method Pattern).md",
     "Design Pattern",
     "Design Pattern/추상 팩토리 패턴(Abstract Factory Pattern).md",
@@ -189,7 +202,6 @@
     "JavaScript/프로미스(Promise) 객체.md",
     "JavaScript/파라미터(parameter).md",
     "JavaScript/비동기 함수.md",
-    "Database/서버(server).md",
     "Error",
     "Database",
     "TypeScript",
