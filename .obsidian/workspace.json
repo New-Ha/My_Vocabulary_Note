@@ -37,14 +37,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MVC 패턴.md",
+                "file": "Design Pattern/MVC 패턴.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "918d5956d70a273f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS(ComputerScience)/운영체제(OS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdbc167a8e64301f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS(ComputerScience)/코딩(coding).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d949f734c81760d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS(ComputerScience)/코딩(coding).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17f2e0571eaf7bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS(ComputerScience)/프로그램.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "724d03d2d22fdf60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS(ComputerScience)/인터넷.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f6112d519916659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS(ComputerScience)/인터넷.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83e803b9005bded5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS(ComputerScience)/https.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -110,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MVC 패턴.md",
+                "file": "CS(ComputerScience)/https.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MVC 패턴.md",
+                "file": "CS(ComputerScience)/https.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MVC 패턴.md"
+                "file": "CS(ComputerScience)/https.md"
               }
             }
           }
@@ -171,10 +255,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "681f740bff788156",
+  "active": "944914317755fed3",
   "lastOpenFiles": [
+    "CS(ComputerScience)/인터넷.md",
+    "CS(ComputerScience)/https.md",
+    "CS(ComputerScience)/웹(http).md",
+    "CS(ComputerScience)/프로그램.md",
+    "CS(ComputerScience)/코딩(coding).md",
+    "CS(ComputerScience)/프로그래밍 언어.md",
+    "CS(ComputerScience)/운영체제(OS).md",
+    "Design Pattern/MVC 패턴.md",
     "Design Pattern/디자인 패턴(Design Pattern).md",
-    "MVC 패턴.md",
     "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
     "Design Pattern/팩토리 메소드 패턴(Factory Method Pattern).md",
     "Design Pattern",
@@ -193,15 +284,8 @@
     "Database/스키마(Schema).md",
     "Database/리스폰스(response).md",
     "Database/리퀘스트(request).md",
-    "JavaScript/키보드 네비게이션(Keyboard Navigation).md",
-    "JavaScript/아규먼트(argument).md",
-    "JavaScript/콜백(callback).md",
-    "TypeScript/오버로드(overload).md",
     "CommonSense",
     "CS(ComputerScience)",
-    "JavaScript/프로미스(Promise) 객체.md",
-    "JavaScript/파라미터(parameter).md",
-    "JavaScript/비동기 함수.md",
     "Error",
     "Database",
     "TypeScript",
