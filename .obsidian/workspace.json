@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "266dd0209a299ae3",
+        "id": "d40cf8be693204d7",
         "type": "tabs",
         "children": [
           {
-            "id": "d4bdb07a4a59e2e2",
+            "id": "aec71ae18ec10404",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0fd95d686776e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/디자인 패턴(Design Pattern).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "681f740bff788156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Pattern/MVC 패턴.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "918d5956d70a273f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS(ComputerScience)/운영체제(OS).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83e803b9005bded5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS(ComputerScience)/자료구조(Data Structure).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS(ComputerScience)/자료구조(Data Structure).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS(ComputerScience)/자료구조(Data Structure).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS(ComputerScience)/자료구조(Data Structure).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,19 +138,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "83e803b9005bded5",
+  "active": "aec71ae18ec10404",
   "lastOpenFiles": [
-    "CS(ComputerScience)/https.md",
+    "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
+    "Design Pattern/디자인 패턴(Design Pattern).md",
+    "Design Pattern/MVC 패턴.md",
+    "CS(ComputerScience)/운영체제(OS).md",
     "CS(ComputerScience)/자료구조(Data Structure).md",
+    "CommonSense/리팩터링(Refactoring).md",
+    "CS(ComputerScience)/소프트웨어(Software).md",
+    "CS(ComputerScience)/https.md",
     "CS(ComputerScience)/프로그램.md",
     "CS(ComputerScience)/프로그래밍 언어.md",
     "CS(ComputerScience)/코딩(coding).md",
-    "CS(ComputerScience)/운영체제(OS).md",
     "CS(ComputerScience)/인터넷.md",
     "CS(ComputerScience)/웹(http).md",
-    "Design Pattern/MVC 패턴.md",
-    "Design Pattern/디자인 패턴(Design Pattern).md",
-    "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
     "Design Pattern/팩토리 메소드 패턴(Factory Method Pattern).md",
     "Design Pattern",
     "Design Pattern/추상 팩토리 패턴(Abstract Factory Pattern).md",
@@ -222,8 +167,6 @@
     "CommonSense/CLS(Cumulative Layout Shift).md",
     "Error/레이아웃 쉬프트(Layout Shift).md",
     "Database/스키마(Schema).md",
-    "Database/리스폰스(response).md",
-    "Database/리퀘스트(request).md",
     "CommonSense",
     "CS(ComputerScience)",
     "Error",
