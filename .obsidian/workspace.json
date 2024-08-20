@@ -56,79 +56,19 @@
             }
           },
           {
-            "id": "fdbc167a8e64301f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS(ComputerScience)/코딩(coding).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d949f734c81760d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS(ComputerScience)/코딩(coding).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17f2e0571eaf7bc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS(ComputerScience)/프로그램.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "724d03d2d22fdf60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS(ComputerScience)/인터넷.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f6112d519916659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS(ComputerScience)/인터넷.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "83e803b9005bded5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS(ComputerScience)/https.md",
+                "file": "CS(ComputerScience)/자료구조(Data Structure).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -194,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS(ComputerScience)/https.md",
+                "file": "CS(ComputerScience)/자료구조(Data Structure).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS(ComputerScience)/https.md",
+                "file": "CS(ComputerScience)/자료구조(Data Structure).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS(ComputerScience)/https.md"
+                "file": "CS(ComputerScience)/자료구조(Data Structure).md"
               }
             }
           }
@@ -255,15 +195,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "944914317755fed3",
+  "active": "83e803b9005bded5",
   "lastOpenFiles": [
-    "CS(ComputerScience)/인터넷.md",
     "CS(ComputerScience)/https.md",
-    "CS(ComputerScience)/웹(http).md",
+    "CS(ComputerScience)/자료구조(Data Structure).md",
     "CS(ComputerScience)/프로그램.md",
-    "CS(ComputerScience)/코딩(coding).md",
     "CS(ComputerScience)/프로그래밍 언어.md",
+    "CS(ComputerScience)/코딩(coding).md",
     "CS(ComputerScience)/운영체제(OS).md",
+    "CS(ComputerScience)/인터넷.md",
+    "CS(ComputerScience)/웹(http).md",
     "Design Pattern/MVC 패턴.md",
     "Design Pattern/디자인 패턴(Design Pattern).md",
     "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
@@ -279,7 +220,6 @@
     "Error/포커스 트랩(Focus Trap).md",
     "Error/포커스 관리(Focus management).md",
     "CommonSense/CLS(Cumulative Layout Shift).md",
-    "CS(ComputerScience)/자료구조(Data Structure).md",
     "Error/레이아웃 쉬프트(Layout Shift).md",
     "Database/스키마(Schema).md",
     "Database/리스폰스(response).md",
