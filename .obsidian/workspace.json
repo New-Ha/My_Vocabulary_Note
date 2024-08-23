@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d40cf8be693204d7",
+        "id": "a35215eeece77548",
         "type": "tabs",
         "children": [
           {
-            "id": "aec71ae18ec10404",
+            "id": "47dad2694158a798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS(ComputerScience)/소프트웨어(Software).md",
+                "file": "JavaScript/메서드(Method).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS(ComputerScience)/소프트웨어(Software).md",
+                "file": "JavaScript/메서드(Method).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS(ComputerScience)/소프트웨어(Software).md",
+                "file": "JavaScript/메서드(Method).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS(ComputerScience)/소프트웨어(Software).md"
+                "file": "JavaScript/메서드(Method).md"
               }
             }
           }
@@ -146,15 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "aec71ae18ec10404",
+  "active": "944914317755fed3",
   "lastOpenFiles": [
+    "JavaScript/메서드(Method).md",
+    "Error/포커스 트랩(Focus Trap).md",
+    "CS(ComputerScience)/소프트웨어(Software).md",
     "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
     "Design Pattern/디자인 패턴(Design Pattern).md",
     "Design Pattern/MVC 패턴.md",
     "CS(ComputerScience)/운영체제(OS).md",
     "CS(ComputerScience)/자료구조(Data Structure).md",
     "CommonSense/리팩터링(Refactoring).md",
-    "CS(ComputerScience)/소프트웨어(Software).md",
     "CS(ComputerScience)/https.md",
     "CS(ComputerScience)/프로그램.md",
     "CS(ComputerScience)/프로그래밍 언어.md",
@@ -170,11 +172,9 @@
     "React/제어 컴포넌트(Controlled Component).md",
     "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
     "Error/포커스 드리프트(Focus Drift).md",
-    "Error/포커스 트랩(Focus Trap).md",
     "Error/포커스 관리(Focus management).md",
     "CommonSense/CLS(Cumulative Layout Shift).md",
     "Error/레이아웃 쉬프트(Layout Shift).md",
-    "Database/스키마(Schema).md",
     "CommonSense",
     "CS(ComputerScience)",
     "Error",
