@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45bde658ec1ca15e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error/교차 출처 리소스 공유(CORS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06c7f061c0f6b2c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Error/교차 출처 리소스 공유(CORS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Pattern/MVC 패턴.md",
+                "file": "Error/교차 출처 리소스 공유(CORS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Pattern/MVC 패턴.md",
+                "file": "Error/교차 출처 리소스 공유(CORS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Pattern/MVC 패턴.md"
+                "file": "Error/교차 출처 리소스 공유(CORS).md"
               }
             }
           }
@@ -173,6 +197,9 @@
   },
   "active": "944914317755fed3",
   "lastOpenFiles": [
+    "CommonSense/SOP(Same-Origin Policy) 정책.md",
+    "Error/교차 출처 리소스 공유(CORS).md",
+    "Design Pattern/MVC 패턴.md",
     "Design Pattern/MVT패턴.md",
     "Design Pattern/소프트웨어 아키텍처 패턴(Software Architecture Pattern).md",
     "CS(ComputerScience)/소프트웨어(Software).md",
@@ -180,7 +207,6 @@
     "Error/포커스 트랩(Focus Trap).md",
     "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
     "Design Pattern/디자인 패턴(Design Pattern).md",
-    "Design Pattern/MVC 패턴.md",
     "CS(ComputerScience)/운영체제(OS).md",
     "CS(ComputerScience)/자료구조(Data Structure).md",
     "CommonSense/리팩터링(Refactoring).md",
@@ -198,8 +224,6 @@
     "React/시퀀스.md",
     "React/제어 컴포넌트(Controlled Component).md",
     "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
-    "Error/포커스 드리프트(Focus Drift).md",
-    "Error/포커스 관리(Focus management).md",
     "CommonSense",
     "CS(ComputerScience)",
     "Error",
