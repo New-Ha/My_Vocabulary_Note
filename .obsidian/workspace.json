@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/메서드(Method).md",
+                "file": "CS(ComputerScience)/소프트웨어(Software).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1f6c7a0ed47cfd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/소프트웨어 아키텍처 패턴(Software Architecture Pattern).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3464fd27162c63d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/MVC 패턴.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/메서드(Method).md",
+                "file": "Design Pattern/MVC 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/메서드(Method).md",
+                "file": "Design Pattern/MVC 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/메서드(Method).md"
+                "file": "Design Pattern/MVC 패턴.md"
               }
             }
           }
@@ -148,9 +173,11 @@
   },
   "active": "944914317755fed3",
   "lastOpenFiles": [
+    "Design Pattern/MVT패턴.md",
+    "Design Pattern/소프트웨어 아키텍처 패턴(Software Architecture Pattern).md",
+    "CS(ComputerScience)/소프트웨어(Software).md",
     "JavaScript/메서드(Method).md",
     "Error/포커스 트랩(Focus Trap).md",
-    "CS(ComputerScience)/소프트웨어(Software).md",
     "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
     "Design Pattern/디자인 패턴(Design Pattern).md",
     "Design Pattern/MVC 패턴.md",
@@ -173,8 +200,6 @@
     "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
     "Error/포커스 드리프트(Focus Drift).md",
     "Error/포커스 관리(Focus management).md",
-    "CommonSense/CLS(Cumulative Layout Shift).md",
-    "Error/레이아웃 쉬프트(Layout Shift).md",
     "CommonSense",
     "CS(ComputerScience)",
     "Error",
