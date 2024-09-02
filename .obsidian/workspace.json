@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0195d85322a56587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "라우트 가드(Route Guard).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Error/교차 출처 리소스 공유(CORS).md",
+                "file": "라우트 가드(Route Guard).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Error/교차 출처 리소스 공유(CORS).md",
+                "file": "라우트 가드(Route Guard).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Error/교차 출처 리소스 공유(CORS).md"
+                "file": "라우트 가드(Route Guard).md"
               }
             }
           }
@@ -195,14 +207,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "944914317755fed3",
+  "active": "0195d85322a56587",
   "lastOpenFiles": [
+    "CS(ComputerScience)/소프트웨어(Software).md",
+    "라우트 가드(Route Guard).md",
     "CommonSense/SOP(Same-Origin Policy) 정책.md",
     "Error/교차 출처 리소스 공유(CORS).md",
     "Design Pattern/MVC 패턴.md",
     "Design Pattern/MVT패턴.md",
     "Design Pattern/소프트웨어 아키텍처 패턴(Software Architecture Pattern).md",
-    "CS(ComputerScience)/소프트웨어(Software).md",
     "JavaScript/메서드(Method).md",
     "Error/포커스 트랩(Focus Trap).md",
     "Design Pattern/단순 팩토리 패턴(Simple Factory Pattern).md",
@@ -223,7 +236,6 @@
     "React/서스펜스(Suspense).md",
     "React/시퀀스.md",
     "React/제어 컴포넌트(Controlled Component).md",
-    "CommonSense/WCAG(Web Content Accessibility Guidelines).md",
     "CommonSense",
     "CS(ComputerScience)",
     "Error",
